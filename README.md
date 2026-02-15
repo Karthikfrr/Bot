@@ -160,4 +160,4 @@ async def register(ctx, profile_id):
 
 # -------------------- RUN BOT --------------------
 import os
-bot.run(os.getenv("MTQ3MDc3NTM2NjgzMzY3MjMzNg.Gq6bs0.ezBtAEJux5a9_1T3NrSNu-eAn0SvxJhWz5kC9A"))
+bot.run(os.getenv("TOKEN"))
